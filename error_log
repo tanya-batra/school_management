@@ -1,0 +1,29 @@
+[28-Mar-2025 06:51:35 UTC] PHP Warning:  Undefined variable $fileDestination in /home3/designinsdesigni/public_html/littlelegends/save_student.php on line 130
+[28-Mar-2025 07:06:56 UTC] Date received: 2025-03-21
+[31-Mar-2025 07:26:05 UTC] PHP Warning:  Undefined variable $fileDestination in /home3/designinsdesigni/public_html/littlelegends/save_student.php on line 130
+[31-Mar-2025 07:28:54 UTC] PHP Warning:  Undefined variable $fileDestination in /home3/designinsdesigni/public_html/littlelegends/save_student.php on line 130
+[31-Mar-2025 07:32:37 UTC] PHP Warning:  Undefined variable $fileDestination in /home3/designinsdesigni/public_html/littlelegends/save_student.php on line 130
+[31-Mar-2025 07:48:04 UTC] PHP Warning:  Undefined variable $fileDestination in /home3/designinsdesigni/public_html/littlelegends/save_student.php on line 130
+[31-Mar-2025 07:51:30 UTC] PHP Warning:  Undefined variable $fileDestination in /home3/designinsdesigni/public_html/littlelegends/save_student.php on line 130
+[31-Mar-2025 07:54:18 UTC] PHP Warning:  Undefined variable $fileDestination in /home3/designinsdesigni/public_html/littlelegends/save_student.php on line 130
+[31-Mar-2025 07:57:27 UTC] PHP Warning:  Undefined array key 0 in /home3/designinsdesigni/public_html/littlelegends/export_studentwise_report.php on line 91
+[31-Mar-2025 07:57:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/designinsdesigni/public_html/littlelegends/export_studentwise_report.php on line 91
+[31-Mar-2025 07:59:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/designinsdesigni/public_html/littlelegends/export_studentwise_report.php:34) in /home3/designinsdesigni/public_html/littlelegends/export_studentwise_report.php on line 111
+[31-Mar-2025 07:59:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/designinsdesigni/public_html/littlelegends/export_studentwise_report.php:34) in /home3/designinsdesigni/public_html/littlelegends/export_studentwise_report.php on line 112
+[31-Mar-2025 07:59:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/designinsdesigni/public_html/littlelegends/export_studentwise_report.php:34) in /home3/designinsdesigni/public_html/littlelegends/export_studentwise_report.php on line 113
+[31-Mar-2025 07:59:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/designinsdesigni/public_html/littlelegends/export_studentwise_report.php:34) in /home3/designinsdesigni/public_html/littlelegends/export_studentwise_report.php on line 114
+[31-Mar-2025 07:59:56 UTC] PHP Warning:  Undefined array key 0 in /home3/designinsdesigni/public_html/littlelegends/export_studentwise_report.php on line 140
+[31-Mar-2025 07:59:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/designinsdesigni/public_html/littlelegends/export_studentwise_report.php on line 140
+[31-Mar-2025 07:59:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/designinsdesigni/public_html/littlelegends/export_studentwise_report.php:34) in /home3/designinsdesigni/public_html/littlelegends/export_studentwise_report.php on line 111
+[31-Mar-2025 07:59:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/designinsdesigni/public_html/littlelegends/export_studentwise_report.php:34) in /home3/designinsdesigni/public_html/littlelegends/export_studentwise_report.php on line 112
+[31-Mar-2025 07:59:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/designinsdesigni/public_html/littlelegends/export_studentwise_report.php:34) in /home3/designinsdesigni/public_html/littlelegends/export_studentwise_report.php on line 113
+[31-Mar-2025 07:59:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/designinsdesigni/public_html/littlelegends/export_studentwise_report.php:34) in /home3/designinsdesigni/public_html/littlelegends/export_studentwise_report.php on line 114
+[31-Mar-2025 07:59:56 UTC] PHP Warning:  Undefined array key 0 in /home3/designinsdesigni/public_html/littlelegends/export_studentwise_report.php on line 140
+[31-Mar-2025 07:59:56 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/designinsdesigni/public_html/littlelegends/export_studentwise_report.php on line 140
+[31-Mar-2025 08:10:26 UTC] Date received: 2025-03-17
+[31-Mar-2025 08:10:53 UTC] Date received: 2025-03-31
+[31-Mar-2025 08:26:19 UTC] Date received: 2025-03-01
+[01-Apr-2025 04:56:06 UTC] PHP Warning:  Undefined variable $fileDestination in /home3/designinsdesigni/public_html/littlelegends/save_student.php on line 130
+[01-Apr-2025 04:59:33 UTC] PHP Warning:  Undefined variable $fileDestination in /home3/designinsdesigni/public_html/littlelegends/save_student.php on line 130
+[01-Apr-2025 05:03:28 UTC] Date received: 2025-03-22
+[01-Apr-2025 05:06:07 UTC] Date received: 2025-03-01
